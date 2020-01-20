@@ -1,7 +1,7 @@
 # Quantitative-3D-structural-analysis-of-the-cellular-microstructures
 This repository will collect codes accompanying the publication: Quantitative 3D structural analysis of the cellular microstructures of sea urchin spines (I): Methodology. Here we provide comprehensive quantitative description and analysis of the  natural cellular materials in 3D. It provides free, open source tools for cellular materials geometry and shape analysis. Here we use sea urchin spine structure as a representative volume. Scripts are implemented in MATLAB. Enjoy this structural analysis journey!
 
-<img src="https://github.com/Ziling-Wu/Quantitative-3D-structural-analysis-of-the-cellular-microstructures/blob/master/Images/Fig1.png" width=300 align=middle><br/>
+<img src="https://github.com/Ziling-Wu/Quantitative-3D-structural-analysis-of-the-cellular-microstructures/blob/master/Images/Fig1.png" width=300 align=center><br/>
 
 # Demonstration
 The main code is put in the folder 'Code' under this repository. For the data, please download from this shared [Google Drive folder](https://drive.google.com/drive/folders/1aF0AjVVsmUzeQXLO4210gLvbiKOcbcx0?usp=sharing) and put under folder 'Code'. The 3D redndering of the provided dataset is shown as below. 
