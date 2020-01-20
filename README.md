@@ -11,6 +11,6 @@ In the second part 02_main_dataAnalysis.m, multi-scale feature extraction and da
 1 . node configuration, branch length, thicknes, orientation, inter-branch angles in the node and branch level; <br/>
 2. chain and ring analysis in the local cellular level; <br/>
 3. node analysis based on Fourier transform in the global network level;<br/>
-
 4. and correlations among different levels. 
-Here shows the main parametrers.
+Here shows the main parametrers.<br/>
+![Image of sea urchin spine](https://github.com/Ziling-Wu/Quantitative-3D-structural-analysis-of-the-cellular-microstructures/blob/master/Images/Fig7.png)
