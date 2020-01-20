@@ -7,9 +7,10 @@ The main code is put in the folder 'Code' under this repository. For the data, p
 
 In the first part 01_main_dataprocessing.m, network registration is performed based on binarized 3D volume; The final results are shown as follows
 
-In the second part 02_main_dataAnalysis.m, multi-scale feature extraction and data visulization are performed based on the registered network, including\\ 
-1 . node configuration, branch length, thicknes, orientation, inter-branch angles in the node and branch level; \\
-2. chain and ring analysis in the local cellular level; \\
-3. node analysis based on Fourier transform in the global network level;\\
+In the second part 02_main_dataAnalysis.m, multi-scale feature extraction and data visulization are performed based on the registered network, including<br/>
+1 . node configuration, branch length, thicknes, orientation, inter-branch angles in the node and branch level; <br/>
+2. chain and ring analysis in the local cellular level; <br/>
+3. node analysis based on Fourier transform in the global network level;<br/>
+
 4. and correlations among different levels. 
 Here shows the main parametrers.
