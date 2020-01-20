@@ -13,7 +13,7 @@ In the first part 01_main_dataprocessing.m, network registration is performed ba
 4. and correlations among different levels. <br/>
 Here shows the main parametrers.<br/>
 ![Image of sea urchin spine](https://github.com/Ziling-Wu/Quantitative-3D-structural-analysis-of-the-cellular-microstructures/blob/master/Images/Fig7.png)
-
+For more analysis results, please refer to our paper.
 
 # Requirement
 * MATLAB
